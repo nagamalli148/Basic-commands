@@ -1,0 +1,12 @@
+apt install git
+
+git config --global user.name 'your name(same as in github)'
+git config --global user.mail 'yourmail'
+
+1.create a directory    //(mkdir task1)
+2.change to that directory //(cd task1) 
+3.create a file //(touch basic)
+4.git init or git init directory-name  //to intialise the repository
+5.gedit <filename> //basic
+
+		
